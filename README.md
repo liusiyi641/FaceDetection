@@ -1,4 +1,4 @@
-# ML-Project
+# Face Detection
 
 This is a Face Detection Project finished by Siyi Liu, Yu Du, Bincheng Huang
 
